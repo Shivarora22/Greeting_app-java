@@ -10,7 +10,8 @@ Welcome to the Greeting Application repository! This simple Android application,
 -> XML: Used for designing the user interface (UI) of the application.<br>
 
  <h3>ScrrenShots</h3>
-1) ![Screenshot 2023-12-23 225154](https://github.com/Shivarora22/Greeting_app-java/assets/104933581/47345119-cd0a-4f70-9760-858ef08354ec)
+ 
+1) ![Screenshot 2023-12-23 225154](https://github.com/Shivarora22/Greeting_app-java/assets/104933581/d8d2fb1c-d161-499f-95c0-bef1b24b8ed9)
 
 2) ![Screenshot 2023-12-23 225227](https://github.com/Shivarora22/Greeting_app-java/assets/104933581/825c24c2-a6ef-4514-acf3-1dfaed9fb8fb)
 
