@@ -9,7 +9,7 @@ Welcome to the Greeting Application repository! This simple Android application,
 -> Java: The programming language used for the application's logic and functionality.<br>
 -> XML: Used for designing the user interface (UI) of the application.<br>
 
- <h3>ScrrenShots</h3>
+ <h3>Screenhots</h3>
  
 1) ![Screenshot 2023-12-23 225154](https://github.com/Shivarora22/Greeting_app-java/assets/104933581/d8d2fb1c-d161-499f-95c0-bef1b24b8ed9)
 
