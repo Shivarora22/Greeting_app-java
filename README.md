@@ -10,9 +10,11 @@ Welcome to the Greeting Application repository! This simple Android application,
 -> XML: Used for designing the user interface (UI) of the application.<br>
 
  <h3>ScrrenShots</h3>
-1) ![image] (https://github.com/Shivarora22/Greeting_app-java/assets/104933581/41d0eace-3c81-407c-8298-2a8279488492)
-2) ![image] (https://github.com/Shivarora22/Greeting_app-java/assets/104933581/ae52daf2-9852-4a47-b1af-62027d164a64)
-3) ![image] (https://github.com/Shivarora22/Greeting_app-java/assets/104933581/05686c81-6c96-40a4-923d-f7ca2543a009)
+1) ![Screenshot 2023-12-23 225154](https://github.com/Shivarora22/Greeting_app-java/assets/104933581/47345119-cd0a-4f70-9760-858ef08354ec)
+
+2) ![Screenshot 2023-12-23 225227](https://github.com/Shivarora22/Greeting_app-java/assets/104933581/825c24c2-a6ef-4514-acf3-1dfaed9fb8fb)
+
+3) ![Screenshot 2023-12-23 225248](https://github.com/Shivarora22/Greeting_app-java/assets/104933581/8f780312-4485-4959-aa69-c2c6e5a7db8e)
 
 <h3>Getting Started </h4>
 To run the Greeting Application on your local machine, follow these steps:[
