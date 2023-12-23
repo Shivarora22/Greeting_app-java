@@ -1,15 +1,15 @@
 <h1> Greeting Application </h1>
 Welcome to the Greeting Application repository! This simple Android application, developed using Android Studio, Java, and XML, allows users to input their name and receive a personalized welcome message.<br>
 
-<h4> Features : </h4><br>
+<h3> Features : </h4>
 -> User Input: The application prompts users to enter their name. <br>
 -> Personalized Greeting: Upon clicking the "Click Me!" button, a toast message appears, welcoming the user by their entered name.<br>
-<h4> Technologies Used : <h4><br>
+<h3> Technologies Used : <h4>
 -> Android Studio: The primary integrated development environment (IDE) for building Android applications.<br>
 -> Java: The programming language used for the application's logic and functionality.<br>
 -> XML: Used for designing the user interface (UI) of the application.<br>
 
-<h4>Getting Started </h4> <br>
+<h3>Getting Started </h4>
 To run the Greeting Application on your local machine, follow these steps:
 
 1)<b> Clone the Repository: </b> <br>
