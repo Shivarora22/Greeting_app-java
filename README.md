@@ -9,7 +9,7 @@ Welcome to the Greeting Application repository! This simple Android application,
 -> Java: The programming language used for the application's logic and functionality.<br>
 -> XML: Used for designing the user interface (UI) of the application.<br>
 
- <h3>Screenhots</h3>
+ <h3>Screenhots : </h3>
  
 1) ![Screenshot 2023-12-23 225154](https://github.com/Shivarora22/Greeting_app-java/assets/104933581/d8d2fb1c-d161-499f-95c0-bef1b24b8ed9)
 
@@ -17,7 +17,7 @@ Welcome to the Greeting Application repository! This simple Android application,
 
 3) ![Screenshot 2023-12-23 225248](https://github.com/Shivarora22/Greeting_app-java/assets/104933581/8f780312-4485-4959-aa69-c2c6e5a7db8e)
 
-<h3>Getting Started </h4>
+<h3>Getting Started : </h4>
 To run the Greeting Application on your local machine, follow these steps:[
 
 1)<b> Clone the Repository: </b> <br>
