@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
 
                 String inputName = edittext.getText().toString();
-                Toast.makeText(MainActivity.this, "Welcome " + inputName +" to the Application", Toast.LENGTH_LONG).show();
+                Toast.makeText(MainActivity.this, "Welcome " + inputName +" to the Application !", Toast.LENGTH_LONG).show();
             }
         });
     }
