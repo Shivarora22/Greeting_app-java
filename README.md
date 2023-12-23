@@ -9,19 +9,19 @@ Welcome to the Greeting Application repository! This simple Android application,
 -> Java: The programming language used for the application's logic and functionality.
 -> XML: Used for designing the user interface (UI) of the application.
 
-<b>Getting Started </b>
+<b>Getting Started </b> <br>
 To run the Greeting Application on your local machine, follow these steps:
 
-<b> Clone the Repository: </b>
+1)<b> Clone the Repository: </b> <br>
 -> Copy code
  git clone https://github.com/your-username/Greeting-Application.git
 -> Open with Android Studio:
 
-1) Open Android Studio.
-2) Select "Open an existing Android Studio project."
-3) Navigate to the cloned repository and select the project.
+2) Open Android Studio.
+3) Select "Open an existing Android Studio project."
+4) Navigate to the cloned repository and select the project.
 
--> Run the Application:
+5) Run the Application:
 
 1)Connect your Android device or use an emulator.
 2)Click the "Run" button in Android Studio to deploy the application.
